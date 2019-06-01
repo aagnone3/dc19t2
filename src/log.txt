@@ -1,0 +1,93 @@
+[32m[I 13:25:23.286 LabApp](B[m Writing notebook server cookie secret to /home/aagnone/.local/share/jupyter/runtime/notebook_cookie_secret
+[32m[I 13:25:24.054 LabApp](B[m JupyterLab extension loaded from /usr/local/lib/python3.5/dist-packages/jupyterlab
+[32m[I 13:25:24.054 LabApp](B[m JupyterLab application directory is /usr/local/share/jupyter/lab
+[33m[W 13:25:24.056 LabApp](B[m JupyterLab server extension not enabled, manually loading...
+[32m[I 13:25:24.058 LabApp](B[m JupyterLab extension loaded from /usr/local/lib/python3.5/dist-packages/jupyterlab
+[32m[I 13:25:24.058 LabApp](B[m JupyterLab application directory is /usr/local/share/jupyter/lab
+[32m[I 13:25:24.058 LabApp](B[m Serving notebooks from local directory: /opt
+[32m[I 13:25:24.058 LabApp](B[m The Jupyter Notebook is running at:
+[32m[I 13:25:24.058 LabApp](B[m http://(dbd33b20fc38 or 127.0.0.1):8893/?token=20a22812cddc9116eab3d697504a6d35e5f8eab6ae34dc00
+[32m[I 13:25:24.058 LabApp](B[m Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:25:24.062 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/aagnone/.local/share/jupyter/runtime/nbserver-1-open.html
+    Or copy and paste one of these URLs:
+        http://(dbd33b20fc38 or 127.0.0.1):8893/?token=20a22812cddc9116eab3d697504a6d35e5f8eab6ae34dc00
+[33m[W 13:25:25.011 LabApp](B[m Clearing invalid/expired login cookie username-localhost-8893
+[33m[W 13:25:25.012 LabApp](B[m Forbidden
+[33m[W 13:25:25.013 LabApp](B[m 403 GET /api/contents/?content=1&1557753925003 (172.17.0.1) 3.63ms referer=http://localhost:8893/lab
+[32m[I 13:25:35.988 LabApp](B[m 302 GET /?token=20a22812cddc9116eab3d697504a6d35e5f8eab6ae34dc00 (172.17.0.1) 0.54ms
+[33m[W 13:25:36.794 LabApp](B[m Could not determine jupyterlab build status without nodejs
+[33m[W 13:25:37.232 LabApp](B[m 404 GET /lab/api/workspaces/lab?1557753936850 (172.17.0.1): Workspace 'lab' ('lab-a511') not found
+[33m[W 13:25:37.233 LabApp](B[m Workspace 'lab' ('lab-a511') not found
+[33m[W 13:25:37.233 LabApp](B[m 404 GET /lab/api/workspaces/lab?1557753936850 (172.17.0.1) 3.46ms referer=http://localhost:8893/lab
+[32m[I 13:25:57.129 LabApp](B[m Writing notebook-signing key to /home/aagnone/.local/share/jupyter/notebook_secret
+[33m[W 13:25:57.130 LabApp](B[m Notebook Untitled.ipynb is not trusted
+[32m[I 13:25:57.292 LabApp](B[m Kernel started: 9f6732a4-b661-4a7f-9d61-ab5293ca6e93
+[32m[I 13:25:58.312 LabApp](B[m Adapting to protocol v5.1 for kernel 9f6732a4-b661-4a7f-9d61-ab5293ca6e93
+[32m[I 13:25:58.312 LabApp](B[m Adapting to protocol v5.1 for kernel 9f6732a4-b661-4a7f-9d61-ab5293ca6e93
+[32m[I 13:27:57.881 LabApp](B[m Saving file at /Untitled.ipynb
+[33m[W 13:27:57.881 LabApp](B[m Notebook Untitled.ipynb is not trusted
+[32m[I 13:33:58.877 LabApp](B[m Saving file at /Untitled.ipynb
+[33m[W 13:33:58.878 LabApp](B[m Notebook Untitled.ipynb is not trusted
+[32m[I 13:35:58.904 LabApp](B[m Saving file at /Untitled.ipynb
+[33m[W 13:35:58.904 LabApp](B[m Notebook Untitled.ipynb is not trusted
+[32m[I 13:36:50.522 LabApp](B[m Starting buffering for 9f6732a4-b661-4a7f-9d61-ab5293ca6e93:e135a2d1-5740-4c00-9b82-f82623f14572
+[32m[I 13:36:51.138 LabApp](B[m Kernel restarted: 9f6732a4-b661-4a7f-9d61-ab5293ca6e93
+[32m[I 13:36:52.078 LabApp](B[m Adapting to protocol v5.1 for kernel 9f6732a4-b661-4a7f-9d61-ab5293ca6e93
+[32m[I 13:36:52.079 LabApp](B[m Restoring connection for 9f6732a4-b661-4a7f-9d61-ab5293ca6e93:e135a2d1-5740-4c00-9b82-f82623f14572
+[32m[I 13:36:52.079 LabApp](B[m Replaying 10 buffered messages
+[32m[I 13:37:58.932 LabApp](B[m Saving file at /Untitled.ipynb
+[33m[W 13:37:58.932 LabApp](B[m Notebook Untitled.ipynb is not trusted
+[32m[I 13:41:59.878 LabApp](B[m Saving file at /Untitled.ipynb
+[33m[W 13:41:59.879 LabApp](B[m Notebook Untitled.ipynb is not trusted
+[32m[I 13:46:00.879 LabApp](B[m Saving file at /Untitled.ipynb
+[33m[W 13:46:00.879 LabApp](B[m Notebook Untitled.ipynb is not trusted
+[32m[I 13:46:18.834 LabApp](B[m Starting buffering for 9f6732a4-b661-4a7f-9d61-ab5293ca6e93:e135a2d1-5740-4c00-9b82-f82623f14572
+[32m[I 13:46:19.549 LabApp](B[m Kernel restarted: 9f6732a4-b661-4a7f-9d61-ab5293ca6e93
+[32m[I 13:46:20.630 LabApp](B[m Adapting to protocol v5.1 for kernel 9f6732a4-b661-4a7f-9d61-ab5293ca6e93
+[32m[I 13:46:20.631 LabApp](B[m Restoring connection for 9f6732a4-b661-4a7f-9d61-ab5293ca6e93:e135a2d1-5740-4c00-9b82-f82623f14572
+[32m[I 13:46:20.631 LabApp](B[m Replaying 10 buffered messages
+[32m[I 13:48:00.907 LabApp](B[m Saving file at /Untitled.ipynb
+[33m[W 13:48:00.908 LabApp](B[m Notebook Untitled.ipynb is not trusted
+[32m[I 13:48:08.237 LabApp](B[m Starting buffering for 9f6732a4-b661-4a7f-9d61-ab5293ca6e93:e135a2d1-5740-4c00-9b82-f82623f14572
+[32m[I 13:48:08.849 LabApp](B[m Kernel restarted: 9f6732a4-b661-4a7f-9d61-ab5293ca6e93
+[32m[I 13:48:09.803 LabApp](B[m Adapting to protocol v5.1 for kernel 9f6732a4-b661-4a7f-9d61-ab5293ca6e93
+[32m[I 13:48:09.804 LabApp](B[m Restoring connection for 9f6732a4-b661-4a7f-9d61-ab5293ca6e93:e135a2d1-5740-4c00-9b82-f82623f14572
+[32m[I 13:48:09.804 LabApp](B[m Replaying 9 buffered messages
+[32m[I 13:50:00.934 LabApp](B[m Saving file at /Untitled.ipynb
+[33m[W 13:50:00.935 LabApp](B[m Notebook Untitled.ipynb is not trusted
+[32m[I 13:51:03.292 LabApp](B[m Starting buffering for 9f6732a4-b661-4a7f-9d61-ab5293ca6e93:e135a2d1-5740-4c00-9b82-f82623f14572
+[32m[I 13:51:04.004 LabApp](B[m Kernel restarted: 9f6732a4-b661-4a7f-9d61-ab5293ca6e93
+[32m[I 13:51:04.991 LabApp](B[m Adapting to protocol v5.1 for kernel 9f6732a4-b661-4a7f-9d61-ab5293ca6e93
+[32m[I 13:51:04.992 LabApp](B[m Restoring connection for 9f6732a4-b661-4a7f-9d61-ab5293ca6e93:e135a2d1-5740-4c00-9b82-f82623f14572
+[32m[I 13:51:04.992 LabApp](B[m Replaying 10 buffered messages
+[32m[I 13:52:01.883 LabApp](B[m Saving file at /Untitled.ipynb
+[33m[W 13:52:01.883 LabApp](B[m Notebook Untitled.ipynb is not trusted
+[32m[I 13:52:52.634 LabApp](B[m Starting buffering for 9f6732a4-b661-4a7f-9d61-ab5293ca6e93:e135a2d1-5740-4c00-9b82-f82623f14572
+[32m[I 13:52:53.346 LabApp](B[m Kernel restarted: 9f6732a4-b661-4a7f-9d61-ab5293ca6e93
+[32m[I 13:52:54.370 LabApp](B[m Adapting to protocol v5.1 for kernel 9f6732a4-b661-4a7f-9d61-ab5293ca6e93
+[32m[I 13:52:54.371 LabApp](B[m Restoring connection for 9f6732a4-b661-4a7f-9d61-ab5293ca6e93:e135a2d1-5740-4c00-9b82-f82623f14572
+[32m[I 13:52:54.371 LabApp](B[m Replaying 10 buffered messages
+[32m[I 13:54:01.915 LabApp](B[m Saving file at /Untitled.ipynb
+[33m[W 13:54:01.916 LabApp](B[m Notebook Untitled.ipynb is not trusted
+^[[A
+[32m[I 14:14:02.879 LabApp](B[m Saving file at /Untitled.ipynb
+[32m[I 14:16:02.932 LabApp](B[m Saving file at /Untitled.ipynb
+[32m[I 14:18:03.884 LabApp](B[m Saving file at /Untitled.ipynb
+[32m[I 14:30:04.883 LabApp](B[m Saving file at /Untitled.ipynb
+[32m[I 14:32:04.998 LabApp](B[m Saving file at /Untitled.ipynb
+[32m[I 14:34:05.157 LabApp](B[m Saving file at /Untitled.ipynb
+[32m[I 14:36:05.958 LabApp](B[m Saving file at /Untitled.ipynb
+[32m[I 14:47:50.471 LabApp](B[m Saving file at /Untitled.ipynb
+[32m[I 14:49:36.538 LabApp](B[m Kernel shutdown: 9f6732a4-b661-4a7f-9d61-ab5293ca6e93
+[33m[W 14:49:36.544 LabApp](B[m Got events for closed stream None
+2^C[32m[I 14:49:40.363 LabApp](B[m interrupted
+Serving notebooks from local directory: /opt
+0 active kernels
+The Jupyter Notebook is running at:
+http://(dbd33b20fc38 or 127.0.0.1):8893/?token=20a22812cddc9116eab3d697504a6d35e5f8eab6ae34dc00
+Shutdown this notebook server (y/[n])? y
+[C 14:49:41.048 LabApp] Shutdown confirmed
+[32m[I 14:49:41.051 LabApp](B[m Shutting down 0 kernels

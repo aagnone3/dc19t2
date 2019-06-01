@@ -1,0 +1,9 @@
+#!/bin/bash
+# set -eou pipefail
+
+for fn in $(find preds/summaries -type f); do
+    echo
+    echo ${fn}
+    grep -A3 'Class-wise average metrics (macro-average)' ${fn} | tail -n1
+    echo
+done

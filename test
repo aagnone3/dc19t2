@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -eou pipefail
+
+# ./make_preds baseline/dcase2019_t4_mdl baseline
+# ./make_preds stored_data/MeanTeacher_with_synthetic/model/baseline_epoch_22 baseline_epoch_22
+./make_preds stored_data/n_power_2/MeanTeacher_with_synthetic/model/n_power_2_best n_power_2

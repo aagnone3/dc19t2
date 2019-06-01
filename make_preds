@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -eou pipefail
+
+[[ $# -lt 2 ]] && echo -e "$0 <weights_fn> <tag>" && exit 1
+
+model_path=${1:-src/dcase2019_t4_mdl}
+tag=${2:-untagged}
+preds_fn=preds/${tag}.csv
+preds_summary_fn=preds/summaries/${tag}.summary.csv
+set -x
+mkdir -p preds/summaries
+python3 src/TestModel.py -m ${model_path} -p ${preds_fn} 2>&1 | tee ${preds_summary_fn}
